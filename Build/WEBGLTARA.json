@@ -1,0 +1,13 @@
+{
+"companyName": "HRThangkas",
+"productName": "HRTaraApp",
+"dataUrl": "WEBGLTARA.data.unityweb",
+"asmCodeUrl": "WEBGLTARA.asm.code.unityweb",
+"asmMemoryUrl": "WEBGLTARA.asm.memory.unityweb",
+"asmFrameworkUrl": "WEBGLTARA.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
